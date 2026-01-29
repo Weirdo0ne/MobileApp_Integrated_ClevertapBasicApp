@@ -1,0 +1,4 @@
+"_comment":
+ "Add your real google-services.json file here and remove this dummy data or replace this file",
+
+for Firebase Messaging (FCM HTTP v1 API) Integration with CleveTap 
