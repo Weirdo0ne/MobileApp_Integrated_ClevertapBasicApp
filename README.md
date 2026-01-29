@@ -1,4 +1,5 @@
-<img width="1024" height="250" alt="image" src="https://github.com/user-attachments/assets/6ac8facb-489c-43a9-aa3b-61df30a994e8" />
+<img width="1200" height="330" alt="clevertap-android-sdk" src="https://github.com/user-attachments/assets/cea2fa94-ded9-4bdc-adbd-3c70783a0ada" />
+
 
 # GmZ Store 
 !!! Developed for CleverTap Interview as their given guidelines to "Develop Mobile Application integrating CleverTap SDK" !
@@ -51,12 +52,12 @@ Ensure you have the following installed:
 
 ### Requirements
 1. "Start a free trial" of CleverTap to Integrate the DashBoard and key Events. (For "ProjectID and ProjectToken / AccountID And AccountToken" -> Same)
-<img width="1915" height="1000" alt="image" src="https://github.com/user-attachments/assets/da43e1f3-26b8-458f-8808-31549308627a" />
+<img width="1915" height="1000" alt="Screenshot 2026-01-29 135211" src="https://github.com/user-attachments/assets/2069156b-d661-435a-bfd7-4262cf9cea13" />
 
 ---
 
 2. In "Android Studio" do this setup as provided in screenshot. (Use Virtual Device Manager)
-<img width="1904" height="66" alt="Screenshot 2026-01-29 130040" src="https://github.com/user-attachments/assets/02aadf16-e58a-4390-b4fb-7bcbcea6dc29" />
+<img width="1904" height="66" alt="Screenshot 2026-01-29 130040" src="https://github.com/user-attachments/assets/92191375-facd-47b3-90c6-50d8f8232aae" />
 
 ---
 
@@ -89,7 +90,7 @@ But you can check if it is connected on CleverTap Dasboard by verifying the Bell
 
 ---
 
-<img width="1546" height="317" alt="image" src="https://github.com/user-attachments/assets/0112f242-9cce-4c12-b2b3-68d7c4abb6cb" />
+<img width="1546" height="317" alt="Screenshot 2026-01-29 151135" src="https://github.com/user-attachments/assets/30baa33a-8cf9-4f4a-825a-451e262845ea" />
 
 ---
 
@@ -151,10 +152,10 @@ npx react-native run-android
 
 ## OutPut Images of CleverTap Analytics 
 
-<img width="1897" height="477" alt="Screenshot 2026-01-29 130902" src="https://github.com/user-attachments/assets/9c330246-be17-4384-a87c-fd7b25fb0890" />
-<img width="1897" height="477" alt="Screenshot 2026-01-29 130902" src="https://github.com/user-attachments/assets/2503bfdc-e600-4696-9d3d-0e0d1fbcbcd7" />
-<img width="1918" height="926" alt="Screenshot 2026-01-29 131535" src="https://github.com/user-attachments/assets/6bef6aa5-06fd-4913-a093-6441b25ae8c9" />
-<img width="1918" height="963" alt="Screenshot 2026-01-29 131547" src="https://github.com/user-attachments/assets/03de44e0-00c3-432b-bc6a-520de6fa7b8d" />
+<img width="1897" height="477" alt="Screenshot 2026-01-29 130902" src="https://github.com/user-attachments/assets/f5b50ceb-6f77-4d02-86eb-06a2c1887b42" />
+<img width="1918" height="972" alt="Screenshot 2026-01-29 131503" src="https://github.com/user-attachments/assets/aeb4489e-9c37-4bb7-b032-0aeaed6b86c0" />
+<img width="1918" height="926" alt="Screenshot 2026-01-29 131535" src="https://github.com/user-attachments/assets/5d0d2c3e-3ad3-47fd-b6ce-9ef69a80ef3f" />
+<img width="1918" height="963" alt="Screenshot 2026-01-29 131547" src="https://github.com/user-attachments/assets/7375ad64-bfe5-4ba3-a239-a2c457f8fd91" />
 
 ---
 
@@ -163,27 +164,30 @@ npx react-native run-android
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f8f4fb42-4942-4276-bde1-591e52f8461b" width="250"/>
+      <img src="https://github.com/user-attachments/assets/82ced770-a040-4ac0-b4f5-965473fc5847" width="250"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/69794daf-5534-4005-a04f-b15052944035" width="250"/>
+      <img src="https://github.com/user-attachments/assets/05ee7874-9868-45df-ac1a-769111bee31d" width="250"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6e09b5c3-26bc-4598-8bad-db2a592ebace" width="250"/>
+      <img src="https://github.com/user-attachments/assets/01b742e1-d7d5-4206-a3e4-3521136f9c19" width="250"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/83f45abb-8166-430b-8023-f99d795e8697" width="250"/>
+      <img src="https://github.com/user-attachments/assets/7444ad70-46bf-4adf-930a-3fc647e11ec4" width="250"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4daab7c2-fc3c-4f7b-ba0c-57db0ce3b388" width="250"/>
+      <img src="https://github.com/user-attachments/assets/5fa6495d-751c-4780-ac7b-d15a1a0df231" width="250"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7a1560c6-1437-47df-9d78-c641d7a3086c" width="250"/>
+      <img src="https://github.com/user-attachments/assets/37664931-6511-45a0-a1f1-f262a0ca71c7" width="250"/>
     </td>
   </tr>
 </table>
+
+
+
 
 ---
 
